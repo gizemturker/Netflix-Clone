@@ -17,6 +17,7 @@
 		C4AE565E281C4AE2008F296A /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4AE565D281C4AE2008F296A /* SearchViewController.swift */; };
 		C4AE5662281C4C06008F296A /* DownloadsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4AE5661281C4C06008F296A /* DownloadsViewController.swift */; };
 		C4AE5669281C76CA008F296A /* CollectionViewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4AE5668281C76CA008F296A /* CollectionViewTableViewCell.swift */; };
+		C4AE566B281C8901008F296A /* DrStrangeHeaderUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4AE566A281C8901008F296A /* DrStrangeHeaderUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		C4AE565D281C4AE2008F296A /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		C4AE5661281C4C06008F296A /* DownloadsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadsViewController.swift; sourceTree = "<group>"; };
 		C4AE5668281C76CA008F296A /* CollectionViewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewTableViewCell.swift; sourceTree = "<group>"; };
+		C4AE566A281C8901008F296A /* DrStrangeHeaderUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrStrangeHeaderUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				C4AE5668281C76CA008F296A /* CollectionViewTableViewCell.swift */,
+				C4AE566A281C8901008F296A /* DrStrangeHeaderUIView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -200,6 +203,7 @@
 				C4AE565E281C4AE2008F296A /* SearchViewController.swift in Sources */,
 				C4AE5649281C3AB8008F296A /* MainTabBarViewController.swift in Sources */,
 				C4AE5669281C76CA008F296A /* CollectionViewTableViewCell.swift in Sources */,
+				C4AE566B281C8901008F296A /* DrStrangeHeaderUIView.swift in Sources */,
 				C4AE5662281C4C06008F296A /* DownloadsViewController.swift in Sources */,
 				C4AE5645281C3AB8008F296A /* AppDelegate.swift in Sources */,
 				C4AE5647281C3AB8008F296A /* SceneDelegate.swift in Sources */,
