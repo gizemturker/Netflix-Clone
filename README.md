@@ -5,20 +5,15 @@
 MainTabBarViewController
 
 Setting HomeViewController TableView
+
 Setting home TableViewCell,CollectionView
-Creating Table’s HeaderView
-Customizing the navigation bar
-Setting Tableview sections titles
+
 Sending URL Requests and Parsing JSON response
+
 Using Extensions
+
 Consuming API To Fetch Data for each Section
+
 Refactoring Models
-Creating Custom CollectionViewCell
-Passing data to the CollectionView
-Viewing poster images inside CollectionViewCell
-Creating Upcoming TableView inside Upcoming Tab
-Creating custom TableViewCell from the upcoming table
-Creating TitleViewModel
-Refactoring 
 
 Readme will be updated when the project is updated...
